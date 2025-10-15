@@ -15,3 +15,10 @@ It includes preprocessing, tokenization, model training with callbacks, and comp
 
 ## 🚀 Tech Stack
 - Python, TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Seaborn
+
+## 🧪 How to Run
+```bash
+pip install -r requirements.txt
+python spam_detection.ipynb
+```
+You can also access my Kaggle Notebook here >> https://www.kaggle.com/code/aryadev25/spam-email-detection
