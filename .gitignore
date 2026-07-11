@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.streamlit/secrets.toml
+data/spamshield.db
+models/tokenizer.pkl
+.DS_Store
+Thumbs.db
